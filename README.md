@@ -1,6 +1,6 @@
 # bot-test
 
-## Add a pr123
+## Add a pr
 
 ## Release
 
